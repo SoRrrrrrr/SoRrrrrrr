@@ -27,7 +27,8 @@ ETC
 </div>
 
 <h3> Expriences </h3>
-01/2024 ~ 04/2024	  Bootcamp about NLP   Goorm, Learning about concept of AI/LLM, participated in team project<br>
+12/2024 ~ 03/2025	  Semi Project         	Personal, diary emotion analysis application<br>
+01/2024 ~ 04/2024	  Bootcamp about NLP   	Goorm, Learning about concept of AI/LLM, participated in team project<br>
 					- final team project about “LLM-based AI interview system”<br>
 					- my roll was prompt engineering and parameter tuning<br>
 09/2023 ~ 12/2023	  student in a LAB       IDB lab, Pukyong National University <br>
