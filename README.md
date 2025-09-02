@@ -9,6 +9,7 @@ Programming Language
 FrontEnd
 <div>
   <img src=https://img.shields.io/badge/swift-20232a?style=for-the-badge&logo=swift&logoColor=%23F05138/>&nbsp
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/> &nbsp
 </div>
 BackEnd
 <div>
