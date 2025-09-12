@@ -27,7 +27,7 @@ ETC
 <img src="https://img.shields.io/badge/LangChain-%23ddede6?style=for-the-badge&logo=LangChain&logoColor=%231C3C3C"/>&nbsp
 </div>
 
-<h3> Expriences </h3>
+<h3> Experiences </h3>
 12/2024 ~ 03/2025	  Semi Project         	Personal, "diary emotion analysis" application<br>
 01/2024 ~ 04/2024	  Bootcamp about NLP   	Goorm, Learning about concept of AI/LLM, participated in team project<br>
 					- final team project about “LLM-based AI interview system”<br>
