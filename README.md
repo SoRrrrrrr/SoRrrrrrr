@@ -28,6 +28,8 @@ ETC
 </div>
 
 <h3> Experiences </h3>
+07/2025 - 10/2025     Team Project          private, Web Service Project<br>
+											- participated in the front-end development
 12/2024 ~ 03/2025	  Semi Project         	Personal, "diary emotion analysis" application<br>
 01/2024 ~ 04/2024	  Bootcamp about NLP   	Goorm, Learning about concept of AI/LLM, participated in team project<br>
 					- final team project about “LLM-based AI interview system”<br>
